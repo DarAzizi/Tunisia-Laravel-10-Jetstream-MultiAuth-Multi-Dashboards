@@ -12,6 +12,9 @@
 <li><strong>Login by Phone Nbr</strong></li>
 <li><strong>Loging by Username&nbsp;</strong></li>
 </ol>
+    <p>Admin Login: <a> admin@site.com Or Admin Or 27774075</a> Pass: 12345678</p>
+<p>Seller Login: <a> seller@site.com Or Seller Or 27774076 &nbsp;</a> Pass: 12345678</p>
+<p>User Login: <a > user@site.com Or User Or 27774077 &nbsp;</a> Pass: 12345678</p>
 <p>&nbsp;</p>
 <p><span style="text-decoration: underline;"><strong>Installation</strong>:</span></p>
 </div>
