@@ -1,5 +1,5 @@
 <div id="title" class="style-scope ytd-watch-metadata">
-<h2 class="style-scope ytd-watch-metadata">Laravel 10 Jetstream/Fortify Multi-Auth, Multi-Dashboards, Roles, Permissions and Guards.</h2>
+<h2 class="style-scope ytd-watch-metadata">Laravel 10 Jetstream/Fortify Multi-Auth, Multi-Dashboards, Roles, Permissions and Guards, Login By Username/Phone/Email.</h2>
 <h4><span style="text-decoration: underline;">Descriptions:</span></h4>
 <ol>
 <li class="style-scope ytd-watch-metadata"><strong>Jetstream/Fortify</strong></li>
