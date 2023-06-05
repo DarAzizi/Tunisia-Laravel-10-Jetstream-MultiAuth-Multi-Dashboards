@@ -1,5 +1,5 @@
 <div id="title" class="style-scope ytd-watch-metadata">
-<h2 class="style-scope ytd-watch-metadata">Laravel 10 Jetstream/Fortify Multi-Auth, Multi-Dashboards, Roles, Permissions and Guards, Login By Username/Phone/Email.</h2>
+<h2 dir="auto" tabindex="-1">Laravel 10 Jetstream/Fortify Multi-Auth, Multi-Dashboards, Roles, Permissions and Guards, Login By Username/Phone/Email.</h2>
 <h4><span style="text-decoration: underline;">Descriptions:</span></h4>
 <ol>
 <li class="style-scope ytd-watch-metadata"><strong>Jetstream/Fortify</strong></li>
@@ -41,6 +41,7 @@
 </ol>
 <p>&nbsp;</p>
 <p><span style="color: #000000;"><strong>Enjoy!</strong></span></p>
-<p><span style="color: #000000;"><strong>Thank you from Tunisia! </strong></span></p>
+<p><span style="color: #000000;"><strong>Thank you from Tunisia! <img src="https://html-online.com/editor/tiny4_9_11/plugins/emoticons/img/smiley-wink.gif" alt="wink" /></strong></span></p>
+<p><span style="color: #000000;"><strong> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Tunisia.png/1024px-Flag_of_Tunisia.png" width="92" height="61" /></strong></span></p>
 <p>&nbsp;</p>
 <p><strong>&nbsp;</strong></p>
